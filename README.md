@@ -16,7 +16,7 @@ Welcome to my Github page. I am a 15 y.o. teenager.
 </ul>
 
 
-<h2>How to find me?</h2>
+<h2🔗 >How to find me?</h2>
 I’m down to collab or just vibe online. Hit me up:
 <ul>
   <li>📨 <a href="https://t.me/dxgbj3">Telegram</a></li>
