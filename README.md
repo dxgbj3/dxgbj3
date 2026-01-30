@@ -11,6 +11,6 @@ Welcome to my Github page. I am a 15 y.o. teenager.
 
 <h2>How to find me?</h2>
 I am interested in trying myself in new projects, here's my 
-<a href="t.me/dxgbj3">telegram</a>
+<a href="https://t.me/dxgbj3">telegram</a>
 <br>
 <strong>dxgbj3</strong> or <strong>daler_euc</strong> - on any other socials
