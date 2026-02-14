@@ -11,7 +11,7 @@ Welcome to my Github page. I am a 15 y.o. teenager.
 
 <h2>🚀 Projects</h2>
 <ul>
-  <li><a href="https://github.com/dxgbj3/Personal-site">My own cool site!</a></li>
+  <li><a href="https://dxgbj3.github.io/Personal-site/">My own cool site!</a></li>
   <li><a href="https://github.com/dxgbj3/Platformer-project">Slick platformer game</a></li>
 </ul>
 
