@@ -1,27 +1,50 @@
-<h1>Hi there, I am Daler</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=200&lines=dxgbj3;Linux+Enthusiast;Coding+%26+Stem" alt="Typing SVG" />
+</p>
 
-Welcome to my Github page. I am a 15 y.o. teenager.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c83f8,100:8b5cf6&height=5&section=header&animation=fadeIn" />
+</p>
+<p align="center">
 
-<h2>🔧 My skills</h2>
-<ul>
-  <li>🐍 Python</li>
-  <li>💻 JavaScript</li>
-  <li>⚙️ C++</li>
-</ul>
+</p>
+<div align="center">
+  <table>
+    <tr>
+<td width="220">
 
-<h2>🚀 Projects</h2>
-<ul>
-  <li><a href="https://dxgbj3.github.io/Personal-site/">My own cool site!</a></li>
-  <li><a href="https://github.com/dxgbj3/Platformer-project">Slick platformer game</a></li>
-</ul>
+### 🎨 Personal Site
+My own Site.
+
+[View](https://dxgbj3.github.io/Personal-site/)
+
+</td>
+
+<td width="220">
+
+### 🎮 Platformer Game
+Slick platformer game.
+
+[View](https://github.com/dxgbj3/Platformer-project)
+
+</td>
+    </tr>
+  </table>
+</div>
+
+---
+```bash
+NAME   : Daler
+AGE    : 15
+OS     : Arch Linux
+WM     : Hyprland & Sway
+Editor : VS Code & NeoVim
+Specs  : Rog Strix g513 (Ryzen 7 4800H · Nvidia 3050 (laptop) · 24GB RAM)
+         Thinkpad T430 (i5-3320M · 4GB RAM)
+Theme  : Minimal · Dark · Light
+```
+<p align="center">
+<strong>dxgbj3</strong> or <strong>daler_euc</strong> on any socials
+</p>
 
 
-<h2>🔗 How to find me?</h2>
-I’m down to collab or just vibe online. Hit me up:
-<ul>
-  <li>📨 <a href="https://t.me/dxgbj3">Telegram</a></li>
-  <li>💬 <a href="https://discord.com/users/796994848871415810">Discord</a></li>
-  <li>✨ <strong>dxgbj3</strong> or <strong>daler_euc</strong> on any other socials</li>
-</ul>
-
-<p>Currently torturing myself with SDL2 in C++</p>
