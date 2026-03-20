@@ -14,7 +14,7 @@
 <td width="220">
 
 ### 🎨 Personal Site
-My own Site.
+My own Site. Featuring stuff I enjoy.
 
 [View](https://dxgbj3.github.io/Personal-site/)
 
@@ -23,9 +23,20 @@ My own Site.
 <td width="220">
 
 ### 🎮 Platformer Game
-Slick platformer game.
+Slick platformer game. Have been made a while ago using a python library: pygame
 
 [View](https://github.com/dxgbj3/Platformer-project)
+
+</td>
+
+<td width="220">
+
+### ⚙️ C++ Game (experimental)
+Testing out and learning C++ as well as game concepts.
+
+[View](https://github.com/dxgbj3/C-SDL)
+
+</td>
 
 </td>
     </tr>
