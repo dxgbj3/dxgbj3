@@ -46,7 +46,7 @@ Testing out and learning C++ as well as game concepts.
 ---
 ```bash
 NAME   : Daler
-AGE    : 15
+AGE    : 16
 OS     : Arch Linux
 WM     : Hyprland & Sway
 Editor : VS Code & NeoVim
