@@ -47,12 +47,10 @@ Testing out and learning C++ as well as game concepts.
 ```bash
 NAME   : Daler
 AGE    : 16
-OS     : Arch Linux
-WM     : Hyprland & Sway
-Editor : VS Code & NeoVim
+OS     : NixOs
+WM     : Hyprland
+Editor : NeoVim
 Specs  : Rog Strix g513 (Ryzen 7 4800H · Nvidia 3050 (laptop) · 24GB RAM)
-         Thinkpad T430 (i5-3320M · 4GB RAM)
-Theme  : Minimal · Dark · Light
 ```
 <p align="center">
 <strong>dxgbj3</strong> or <strong>daler_euc</strong> on any socials
